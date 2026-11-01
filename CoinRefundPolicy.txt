@@ -1,0 +1,150 @@
+# REFUND POLICY
+## Coin Group Savings
+
+**Effective date:** 1 November 2026  
+**Application:** Coin Group Savings  
+**Developer and Publisher:** DartCore Systems Ltd  
+**Support email:** dartcoresystems32@gmail.com
+
+### 1. Introduction
+
+This Refund Policy explains how refund requests relating to Coin Group Savings are handled.
+
+Coin Group Savings is a group savings management and recordkeeping application developed and published by DartCore Systems Ltd ("DartCore", "we", "our" or "us").
+
+This policy applies to payments made directly to DartCore for paid digital features, subscriptions, service plans or other optional services that we may introduce.
+
+It does not make DartCore responsible for money exchanged between members, group contributions, loans, repayments or transactions processed by independent financial service providers.
+
+Nothing in this policy limits any consumer rights that cannot legally be excluded under applicable law.
+
+### 2. Payments Covered by This Policy
+
+Depending on the services made available in your country, payments covered by this policy may include:
+
+- Paid app features or upgrades.
+- Premium or subscription plans.
+- Group administration or management plans.
+- Optional digital services supplied directly by DartCore.
+- Other services for which DartCore is the identified seller or merchant.
+
+The payment screen or checkout page will identify the applicable service, price, payment method and any recurring charges before purchase.
+
+### 3. Payments Not Directly Controlled by DartCore
+
+The following payments are generally outside DartCore's direct refund process:
+
+**Group contributions and savings:** Contributions paid or owed to a savings group belong to the relevant group arrangement and must be handled under its constitution, rules and applicable law.
+
+**Loans and repayments:** Loan disbursements, principal repayments, interest, penalties and other obligations between group members are governed by the relevant group agreement and applicable financial arrangements.
+
+**Third-party payment transactions:** Payments processed by banks, mobile money operators, payment gateways or other independent providers may be subject to their own refund and reversal procedures.
+
+Where a transaction involves a third-party provider, we may help identify the relevant transaction reference or direct you to the appropriate provider, but we cannot guarantee that the provider will approve a reversal.
+
+### 4. Circumstances in Which a Refund May Be Granted
+
+A refund may be considered where:
+
+- You were charged more than once for the same purchase.
+- A payment was successfully collected but the purchased service was not activated or made available.
+- DartCore was unable to deliver a paid service within the agreed period.
+- A technical error caused an incorrect charge.
+- You were charged after a valid cancellation of a recurring subscription.
+- A purchase was made without your authorization, subject to appropriate verification.
+- You qualify for a refund under applicable consumer protection legislation.
+- DartCore determines that a refund is appropriate after reviewing the circumstances.
+
+Each request will be assessed fairly and in accordance with applicable law.
+
+### 5. Cooling-Off and Statutory Consumer Rights
+
+Where applicable, consumers may have statutory cancellation or cooling-off rights.
+
+For example, Zambia's Electronic Communications and Transactions Act, 2021 provides a seven-day cooling-off period for certain electronic service transactions, subject to statutory exceptions. It also provides a separate cancellation remedy where specified online transaction disclosure or ordering requirements are not met.
+
+Some transactions, including certain financial services and fully performed services supplied with the consumer's consent before the cooling-off period expires, may fall within statutory exceptions.
+
+The availability of a statutory right depends on the transaction, the consumer's location and the applicable law.
+
+Nothing in this policy is intended to remove or reduce a consumer's mandatory statutory rights.
+
+### 6. Subscription Cancellations
+
+If paid subscriptions or recurring plans are introduced:
+
+- The applicable billing frequency and price will be displayed before purchase.
+- Users may cancel future renewals using the available cancellation method.
+- Cancellation normally prevents future charges but does not automatically refund a previous valid payment.
+- Access to paid features may continue until the end of the paid billing period, unless otherwise stated or required by law.
+- Charges made after an effective cancellation may qualify for review and refund.
+- Refunds for purchases made through Google Play or another app marketplace may need to be requested through that marketplace, subject to its policies and applicable law.
+
+Deleting the App does not automatically cancel a subscription.
+
+### 7. Duplicate, Failed and Pending Payments
+
+If you believe a payment was duplicated, incorrectly processed or left pending:
+
+1. Check the transaction status with your payment provider.
+2. Retain the transaction reference and payment confirmation.
+3. Contact us with the relevant details.
+4. Allow reasonable time for verification with the relevant provider.
+
+A failed payment should not be treated as a completed purchase merely because an amount temporarily appears as deducted or pending.
+
+Where a payment was collected but the corresponding service was not supplied, we will investigate and take appropriate corrective action, including a refund where required or justified.
+
+### 8. How to Request a Refund
+
+Send your request to:
+
+**dartcoresystems32@gmail.com**
+
+Use the subject line: **Coin Group Savings – Refund Request**
+
+Include:
+
+- Your name.
+- Your registered email address, if applicable.
+- The purchase or subscription involved.
+- The transaction reference.
+- The date and amount paid.
+- A short explanation of the problem.
+- Relevant payment confirmation, with sensitive account details concealed.
+
+Never send passwords, PINs, one-time passwords or full payment-card details.
+
+### 9. Review and Processing
+
+We will acknowledge refund enquiries within a reasonable period and may request additional information to verify the transaction.
+
+Once a refund is approved:
+
+- We will use the original payment method where reasonably possible.
+- If the original method cannot receive the refund, we may arrange another lawful method with the user's agreement.
+- Processing times may depend on the payment provider or financial institution.
+- Any statutory refund deadline will take priority over the general processing estimates in this policy.
+
+### 10. Fraud and Abuse
+
+We may investigate suspected fraudulent, unauthorized or abusive refund requests.
+
+However, a genuine consumer complaint will not be rejected merely because the user has previously requested a refund.
+
+We may take reasonable steps to protect our services, users and payment systems while respecting applicable consumer rights.
+
+### 11. Changes to This Policy
+
+We may update this Refund Policy when our services, payment arrangements or legal obligations change.
+
+The latest version will be published through our designated policy webpage. Material changes will be communicated where required by law.
+
+### 12. Contact Information
+
+**DartCore Systems Ltd**  
+**Product:** Coin Group Savings  
+**Email:** dartcoresystems32@gmail.com
+
+For refund enquiries, please use the subject line "Coin Group Savings – Refund Request". 
+
